@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,16 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Neuroscience and Behavior, UC Santa Barbara, 2028 (expected)
+* B.A. in Psychology, UC Irvine, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Teaching Assistant, UCSB
+  * Lectured weekly for a research methods lab section
+  * Taught students skills essential for finding empirical articles and synthesizing information into a cohesive review of the literature, designing experiments, and producing a research proposal
 
 * Fall 2015: Research Assistant
   * GitHub University
