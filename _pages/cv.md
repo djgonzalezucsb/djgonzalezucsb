@@ -64,3 +64,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+<object data="/djgonzalezucsb.github.io/files/SampleSyllabus.pdf" width="1000" height="1000" type='application/pdf'/>
