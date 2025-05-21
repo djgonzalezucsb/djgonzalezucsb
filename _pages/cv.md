@@ -14,7 +14,7 @@ Education
 * Ph.D in Neuroscience and Behavior, UC Santa Barbara, 2028 (expected)
 * B.A. in Psychology, UC Irvine, 2015
 
-Work experience
+Experience
 ======
 * Winter 2024: Time Management Associate, UCSB
   * Met with 15 students individually on a weekly basis to assess academic progress, identify any obstacles towards academic success, and assisted in providing students with  information or resources to address any problems
@@ -61,7 +61,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Mentorship
 ======
 * Currently signed in to 43 different slack teams
-<object data="/djgonzalezucsb.github.io/files/SampleSyllabus.pdf" width="1000" height="1000" type='application/pdf'/>
+
