@@ -14,11 +14,11 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Teaching Philosophy"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Example Syllabus"
+    url: /syllabus/
         
   - title: "Blog Posts"
     url: /year-archive/
